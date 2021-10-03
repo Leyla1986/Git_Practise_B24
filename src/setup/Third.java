@@ -7,7 +7,9 @@ public class Third {
 
          *create a new branch from master ( TC002 )
          * create a new file called third
-         *
+         *add some text/code
+         *          *     3 or 4 commits
+         *          * merge back to master
          */
     }
 }
